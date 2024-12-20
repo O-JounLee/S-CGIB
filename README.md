@@ -1,4 +1,4 @@
-# Subgraph-conditioned Graph Information Bottleneck (S-CGIB)
+# Subgraph-conditioned Graph Information Bottleneck     (S-CGIB)
 Subgraph-conditioned Graph Information Bottleneck (S-CGIB) is a novel architecture for pre-training Graph Neural Networks in molecular property prediction and developed by [NS Lab, CUK](https://nslab-cuk.github.io/) based on pure [PyTorch](https://github.com/pytorch/pytorch) backend. The paper is now accepted on AAAI 2025.
 
 <p align=center>
