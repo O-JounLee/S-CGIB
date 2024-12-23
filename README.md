@@ -139,7 +139,7 @@ python exp_pep_struct_5.py  --pretrained_ds pre_training_v1
 * [![arXiv](https://img.shields.io/badge/arXiv-2412.15589-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2412.15589) 
 
 :chart_with_upwards_trend: Experimental results [on Papers With Code](https://paperswithcode.com/): 
-* [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-UGT-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/pre-training-graph-neural-networks-on)
+* [![PwC](https://custom-icon-badges.demolab.com/badge/Papers%20With%20Code-S--CGIB-21CBCE?style=flat-square&logo=paperswithcode)](https://paperswithcode.com/paper/pre-training-graph-neural-networks-on)
 
 :pencil: Blog post [on Network Science Lab](https://nslab-cuk.github.io/2024/12/19/SCGIB/): 
 * [![Web](https://img.shields.io/badge/NS@CUK-Post-0C2E86?style=flat-square&logo=jekyll&logoColor=FFFFFF)](https://nslab-cuk.github.io/2024/12/19/SCGIB/)
