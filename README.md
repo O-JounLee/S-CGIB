@@ -130,3 +130,52 @@ python exp_pep_func_5.py  --pretrained_ds pre_training_v1
 ```
 python exp_pep_struct_5.py  --pretrained_ds pre_training_v1
 ``` 
+
+
+
+## 3. Reference
+
+:page_with_curl: Paper [on arXiv](https://arxiv.org/): 
+* [![arXiv](https://img.shields.io/badge/arXiv-2412.15589-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2412.15589) 
+
+:pencil: Blog post [on Network Science Lab](https://nslab-cuk.github.io/2024/12/19/SCGIB/): 
+* [![Web](https://img.shields.io/badge/NS@CUK-Post-0C2E86?style=flat-square&logo=jekyll&logoColor=FFFFFF)](https://nslab-cuk.github.io/2024/12/19/SCGIB/)
+
+
+## 4. Citing UGT
+
+Please cite our [paper](https://arxiv.org/abs/2412.15589) if you find *S-CGIB* useful in your work:
+```
+@misc{hoang2024pretraininggraphneuralnetworks,
+      title={Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck}, 
+      author={Van Thuy Hoang and O-Joun Lee},
+      year={2024},
+      eprint={2412.15589},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2412.15589}, 
+}
+```
+
+Please take a look at our unified graph transformer model, [**UGT**](https://github.com/NSLab-CUK/Unified-Graph-Transformer), which can preserve local and globl graph structure, and community-aware graph transformer model, [**CGT**](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer), which can mitigate degree bias problem of message passing mechanism, together. 
+
+
+## 5. Contributors
+
+<a href="https://github.com/NSLab-CUK/S-CGIB/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NSLab-CUK/S-CGIB" />
+</a>
+
+
+
+<br>
+
+***
+
+<a href="https://nslab-cuk.github.io/"><img src="https://github.com/NSLab-CUK/NSLab-CUK/raw/main/Logo_Dual_Wide.png"/></a>
+
+***
+
+
+
+
