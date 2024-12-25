@@ -145,7 +145,7 @@ python exp_pep_struct_5.py  --pretrained_ds pre_training_v1
 * [![Web](https://img.shields.io/badge/NS@CUK-Post-0C2E86?style=flat-square&logo=jekyll&logoColor=FFFFFF)](https://nslab-cuk.github.io/2024/12/19/SCGIB/)
 
 
-## 4. Citing UGT
+## 4. Citing S-CGIB
 
 Please cite our [paper](https://arxiv.org/abs/2412.15589) if you find *S-CGIB* useful in your work:
 ```
