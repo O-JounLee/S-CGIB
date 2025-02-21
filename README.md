@@ -79,7 +79,7 @@ The following options can be passed to the below commands for fine-tuning the mo
 
 ```--lr:``` Learning rate for fine-tuning the model. For example: ```--lr 0.001```
 
-```--dims:``` The dimmension of hidden vectors. For example: ```--dims 64```
+```--dims:``` The dimension of hidden vectors. For example: ```--dims 64```
 
 ```--num_layers:``` Number of layers for model training. For example: ```--num_layers 5``` 
 
