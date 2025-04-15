@@ -150,8 +150,21 @@ python exp_pep_struct_5.py  --pretrained_ds pre_training_v1
 
 ## 4. Citing S-CGIB
 
-Please cite our [paper](https://arxiv.org/abs/2412.15589) if you find *S-CGIB* useful in your work:
+Please cite our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33891) if you find *S-CGIB* useful in your work:
 ```
+@InProceedings{Hoang_2025,
+      title={Pre-Training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck},
+      volume={39},
+      url={https://ojs.aaai.org/index.php/AAAI/article/view/33891},
+      DOI={10.1609/aaai.v39i16.33891},
+      number={16},
+      booktitle = {Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI 2025)},
+      author={Hoang, Van Thuy and Lee, O-Joun},
+      year={2025},
+      month={Apr.},
+      pages={17204-17213}
+}
+
 @misc{hoang2024pretraininggraphneuralnetworks,
       title={Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck}, 
       author={Van Thuy Hoang and O-Joun Lee},
