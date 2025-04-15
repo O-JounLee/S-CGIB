@@ -135,6 +135,9 @@ python exp_pep_struct_5.py  --pretrained_ds pre_training_v1
 
 ## 3. Reference
 
+:page_with_curl: Paper [on AAAI Proceedings](https://ojs.aaai.org/index.php/AAAI/index): 
+* [![DOI](http://img.shields.io/:DOI-10.1609/aaai.v39i16.33891-FAB70C?style=flat-square&logo=doi)](https://doi.org/10.1609/aaai.v39i16.33891)
+
 :page_with_curl: Paper [on arXiv](https://arxiv.org/): 
 * [![arXiv](https://img.shields.io/badge/arXiv-2412.15589-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2412.15589) 
 
